@@ -57,9 +57,17 @@
 		7934EFA1286B48EE00D81598 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				7934EFA2286B48EE00D81598 /* main.swift */,
+				7934EFA9286B4A8600D81598 /* BaekJoon */,
 			);
 			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		7934EFA9286B4A8600D81598 /* BaekJoon */ = {
+			isa = PBXGroup;
+			children = (
+				7934EFA2286B48EE00D81598 /* main.swift */,
+			);
+			path = BaekJoon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
