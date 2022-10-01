@@ -1,9 +1,10 @@
 //
-//  main.swift
+//  3003.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/01.
 //
+
 import Foundation
 
 let chessItemsCount: [Int] = [1,1,2,2,2,8]
