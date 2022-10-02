@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  10171.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/02.
 //
 
 print("""
@@ -11,3 +11,4 @@ print("""
 (  /  )
  \\(__)|
 """)
+
