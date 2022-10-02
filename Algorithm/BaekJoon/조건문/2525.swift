@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  2525.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/02.
 //
 
 import Foundation
@@ -19,3 +19,4 @@ let c = finalTime / 60 % 24
 let d = finalTime % 60
 
 print(c, d, terminator: " ")
+
