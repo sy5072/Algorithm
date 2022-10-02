@@ -7,14 +7,17 @@
 
 import Foundation
 
-let inputs = readLine()!.components(separatedBy: " ")
-let a = Int(inputs[0])!
-let b = Int(inputs[1])!
+let inputs = readLine()!
+let a = Int(inputs)!
 
-if a > b {
-    print(">")
-} else if a < b {
-    print("<")
+if 90 <= a {
+    print("A")
+} else if 80 <= a {
+    print("B")
+} else if 70 <= a{
+    print("C")
+} else if 60 <= a{
+    print("D")
 } else {
-    print("==")
+    print("F")
 }
