@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  1330.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/02.
 //
 
 import Foundation
@@ -18,3 +18,4 @@ if a > b {
 } else {
     print("==")
 }
+
