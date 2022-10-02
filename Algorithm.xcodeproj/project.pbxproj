@@ -58,6 +58,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7912BB2628E9473E00121536 /* 조건문 */ = {
+			isa = PBXGroup;
+			children = (
+				7912BB1C28E93C9800121536 /* 1330.swift */,
+				7912BB1E28E93E8D00121536 /* 9498.swift */,
+				7912BB2028E9408700121536 /* 2753.swift */,
+				7912BB2228E9428600121536 /* 14681.swift */,
+				7912BB2428E9470E00121536 /* 2884.swift */,
+			);
+			name = "조건문";
+			path = "조건문";
+			sourceTree = "<group>";
+		};
 		7934EF96286B48EE00D81598 = {
 			isa = PBXGroup;
 			children = (
@@ -87,6 +100,7 @@
 			children = (
 				7934EFA2286B48EE00D81598 /* main.swift */,
 				79D41A37286B4F1400E7A5C4 /* print */,
+				7912BB2628E9473E00121536 /* 조건문 */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -109,11 +123,6 @@
 				7912BB1628E93AB600121536 /* 10171.swift */,
 				7912BB1828E93B8B00121536 /* 10172.swift */,
 				7912BB1A28E93BDF00121536 /* 25083.swift */,
-				7912BB1C28E93C9800121536 /* 1330.swift */,
-				7912BB1E28E93E8D00121536 /* 9498.swift */,
-				7912BB2028E9408700121536 /* 2753.swift */,
-				7912BB2228E9428600121536 /* 14681.swift */,
-				7912BB2428E9470E00121536 /* 2884.swift */,
 			);
 			path = print;
 			sourceTree = "<group>";
