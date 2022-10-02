@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  14681.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/02.
 //
 
 let a = Int(readLine()!)!
@@ -21,3 +21,4 @@ if a > 0 {
         print("3")
     }
 }
+
