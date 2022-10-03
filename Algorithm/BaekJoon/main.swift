@@ -5,11 +5,20 @@
 //  Created by Seungyun Kim on 2022/06/28.
 //
 
-let input = Int(readLine()!)!
-var result = 0
+import Foundation
 
-for i in 1...input {
-    result += i
+let totalCost = Int(readLine()!)!
+let itemCount = Int(readLine()!)!
+var sum = 0
+for _ in 1...itemCount {
+    let input = readLine()!.components(separatedBy: " ")
+    let a = Int(input[0])!
+    let b = Int(input[1])!
+    
+    sum += a * b
 }
-
-print(result)
+if totalCost == sum {
+    print("Yes")
+} else {
+    print("No")
+}
