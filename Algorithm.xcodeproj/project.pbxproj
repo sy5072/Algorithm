@@ -46,6 +46,7 @@
 		7912BB2C28EB0B4800121536 /* 2739.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2739.swift; sourceTree = "<group>"; };
 		7912BB2E28EB0E6900121536 /* 10950.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10950.swift; sourceTree = "<group>"; };
 		7912BB3028EB0FB800121536 /* 8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8393.swift; sourceTree = "<group>"; };
+		7912BB3228EB130600121536 /* 25304.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 25304.swift; sourceTree = "<group>"; };
 		7934EF9F286B48EE00D81598 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		7934EFA2286B48EE00D81598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		79D41A35286B4F0B00E7A5C4 /* 2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2557.swift; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 				7912BB2C28EB0B4800121536 /* 2739.swift */,
 				7912BB2E28EB0E6900121536 /* 10950.swift */,
 				7912BB3028EB0FB800121536 /* 8393.swift */,
+				7912BB3228EB130600121536 /* 25304.swift */,
 			);
 			name = "반복문";
 			path = "반복문";
