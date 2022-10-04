@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  11022.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/05.
 //
 
 import Foundation
@@ -16,4 +16,5 @@ for i in 1...textCount {
     
     print("Case #\(i): \(a) + \(b) = \(a+b)")
 }
+
 
