@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  2439.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/05.
 //
 
 let starCount = Int(readLine()!)!
@@ -20,4 +20,3 @@ for i in 1...starCount {
     print("\n", terminator: "")
     spaceCount -= 1
 }
-
