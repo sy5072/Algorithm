@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  10952.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/13.
 //
 
 import Foundation
@@ -20,4 +20,3 @@ while isNotEnded {
         print(a+b)
     }
 }
-    
