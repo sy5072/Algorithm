@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  1110.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/17.
 //
 
 import Foundation
@@ -25,3 +25,4 @@ repeat {
 } while input != finalNumber
 
 print(cycleCount)
+
