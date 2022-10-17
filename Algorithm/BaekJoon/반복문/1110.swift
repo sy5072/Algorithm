@@ -25,4 +25,3 @@ repeat {
 } while input != finalNumber
 
 print(cycleCount)
-
