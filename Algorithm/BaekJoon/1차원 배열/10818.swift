@@ -1,11 +1,9 @@
 //
-//  main.swift
+//  10818.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/17.
 //
-
-import Foundation
 
 let numberCount = Int(readLine()!)!
 let input = readLine()!.split(separator: " ").map{ Int(String($0))! }
