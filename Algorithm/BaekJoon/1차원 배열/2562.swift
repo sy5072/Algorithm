@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  2562.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/31.
 //
 
 var inputNumberList: [Int] = []
