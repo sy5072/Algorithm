@@ -5,11 +5,14 @@
 //  Created by Seungyun Kim on 2022/06/28.
 //
 
-var attendanceNumber = [Int](1...30)
-for _ in 1...3 {
-    let inputNumber = Int(readLine()!)!
-    attendanceNumber.remove(at: attendanceNumber.firstIndex(of: inputNumber)!)
+var inputNumbers: [Int] = []
+for _ in 1 ... 10 {
+    let inputNumber = Int(readLine()!)!%42
+    if !inputNumbers.contains(inputNumber) {
+        inputNumbers.append(inputNumber)
+    }
 }
 
-print(attendanceNumber.min()!)
-print(attendanceNumber.max()!)
+print(inputNumbers.count)
+
+
