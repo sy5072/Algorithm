@@ -1,10 +1,9 @@
 //
-//  main.swift
+//  1546.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/10/31.
 //
-
 
 let inputCount = Double(readLine()!)!
 let scores = readLine()!.split(separator: " ").map{Double($0)!}
