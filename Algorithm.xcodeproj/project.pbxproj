@@ -47,6 +47,7 @@
 		7912BB2E28EB0E6900121536 /* 10950.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10950.swift; sourceTree = "<group>"; };
 		7912BB3028EB0FB800121536 /* 8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8393.swift; sourceTree = "<group>"; };
 		7912BB3228EB130600121536 /* 25304.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 25304.swift; sourceTree = "<group>"; };
+		79152E682911120E000BF18F /* 4344.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4344.swift; sourceTree = "<group>"; };
 		7934EF9F286B48EE00D81598 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		7934EFA2286B48EE00D81598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		793D4C3128EC8BB8000DA170 /* 11021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11021.swift; sourceTree = "<group>"; };
@@ -162,6 +163,7 @@
 				79559854290FF77100D52DCB /* 3052.swift */,
 				79559856290FF8FB00D52DCB /* 1546.swift */,
 				79559858291033F900D52DCB /* 8958.swift */,
+				79152E682911120E000BF18F /* 4344.swift */,
 			);
 			name = "1차원 배열";
 			path = "1차원 배열";
