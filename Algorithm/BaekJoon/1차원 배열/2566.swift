@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  2566.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/11/02.
 //
 
 var maxNumbers = [Int]()

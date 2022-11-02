@@ -62,6 +62,7 @@
 		79559856290FF8FB00D52DCB /* 1546.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1546.swift; sourceTree = "<group>"; };
 		79559858291033F900D52DCB /* 8958.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8958.swift; sourceTree = "<group>"; };
 		79626F1B2912AE0200AAA12F /* 2738.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2738.swift; sourceTree = "<group>"; };
+		79626F1D2912B23E00AAA12F /* 2566.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2566.swift; sourceTree = "<group>"; };
 		79B2594628FD4A3300D567D2 /* 1110.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1110.swift; sourceTree = "<group>"; };
 		79B2594828FD4AF000D567D2 /* 15552.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15552.swift; sourceTree = "<group>"; };
 		79B2594B28FD533500D567D2 /* 10818.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10818.swift; sourceTree = "<group>"; };
@@ -166,6 +167,7 @@
 				79559858291033F900D52DCB /* 8958.swift */,
 				79152E682911120E000BF18F /* 4344.swift */,
 				79626F1B2912AE0200AAA12F /* 2738.swift */,
+				79626F1D2912B23E00AAA12F /* 2566.swift */,
 			);
 			name = "1차원 배열";
 			path = "1차원 배열";
