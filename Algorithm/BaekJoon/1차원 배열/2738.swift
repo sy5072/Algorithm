@@ -1,11 +1,9 @@
 //
-//  main.swift
+//  2738.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/11/02.
 //
-
-import Foundation
 
 let matrixNM = readLine()!.split(separator: " ").map{Int($0)!}
 let n: Int = matrixNM[0] - 1
@@ -30,5 +28,3 @@ for i in 0...n {
     }
     print()
 }
-
-
