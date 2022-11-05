@@ -5,31 +5,28 @@
 //  Created by Seungyun Kim on 2022/06/28.
 //
 
-let paperCount = Int(readLine()!)!
-var whitePaper = [[Int]](repeating: [Int](repeating: 0, count: 100), count: 100)
-var area = 0
+import Foundation
 
-for _ in 1...paperCount {
-    let location = readLine()!.split(separator: " ").map{Int($0)!}
-    let x = location[0], y = location[1]
-    var maxX = x + 9, maxY = y + 9
-    if maxX > 100 {
-        maxX = 100
+var selfNumbers: [Int] = [Int](1...100)
+
+func checkSelfNumber(number: Int) {
+    let numberCount = String(number).count
+    print(number, numberCount)
+    var result = number
+    for i in 1...numberCount {
+        result += number/Int(pow(10.0, Double (i-1)))
     }
-    if maxY > 100 {
-        maxY = 100
-    }
-    for i in y...maxY {
-        whitePaper[i].replaceSubrange(x...maxX, with: [Int](repeating: 1, count: 10))
+    if let resultIndex = selfNumbers.firstIndex(of: result) {
+        selfNumbers[resultIndex] = 0
     }
 }
 
-for i in 0...99 {
-    for j in 0...99 {
-        if whitePaper[i][j] == 1 {
-            area += 1
-        }
-    }
+for i in 1...100 {
+    checkSelfNumber(number: i)
 }
 
-print(area)
+for i in selfNumbers {
+    if i != 0 {
+        print(i)
+    }
+}
