@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  10809.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/11/23.
 //
 
 let input = readLine()!.map{ $0 }
@@ -13,3 +13,4 @@ for i in 97...122 {
     }
     print(index!, terminator: " ")
 }
+
