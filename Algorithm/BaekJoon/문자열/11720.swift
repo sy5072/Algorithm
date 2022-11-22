@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  11720.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/11/22.
 //
 
 let inputCount = readLine()!
