@@ -72,6 +72,7 @@
 		79CADEA62925067C009F47FD /* 4673.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4673.swift; sourceTree = "<group>"; };
 		79D41A35286B4F0B00E7A5C4 /* 2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2557.swift; sourceTree = "<group>"; };
 		79D41A38286B4F8400E7A5C4 /* 10718.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10718.swift; sourceTree = "<group>"; usesTabs = 0; };
+		79EFD88A292D16C500C79A76 /* 11654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11654.swift; sourceTree = "<group>"; };
 		79F2794728ED697900A9EC18 /* 10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10871.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -156,6 +157,7 @@
 				79B2594A28FD531400D567D2 /* 1차원 배열 */,
 				79844B3E2912D2D700AEF333 /* 2차원 배열 */,
 				7975C60D291650F4002015E7 /* 함수 */,
+				79EFD889292D146C00C79A76 /* 문자열 */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -217,6 +219,15 @@
 				7912BB1A28E93BDF00121536 /* 25083.swift */,
 			);
 			path = print;
+			sourceTree = "<group>";
+		};
+		79EFD889292D146C00C79A76 /* 문자열 */ = {
+			isa = PBXGroup;
+			children = (
+				79EFD88A292D16C500C79A76 /* 11654.swift */,
+			);
+			name = "문자열";
+			path = "문자열";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
