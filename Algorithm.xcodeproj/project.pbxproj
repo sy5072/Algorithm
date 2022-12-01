@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		79F150292938A1A200D7D686 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7934EFA2286B48EE00D81598 /* main.swift */; };
-		79F1502D2938A62300D7D686 /* 5622.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F1502C2938A62300D7D686 /* 5622.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -81,6 +80,7 @@
 		79F150272938A0A500D7D686 /* 1152.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1152.swift; sourceTree = "<group>"; };
 		79F1502A2938A39800D7D686 /* 2908.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2908.swift; sourceTree = "<group>"; };
 		79F1502C2938A62300D7D686 /* 5622.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5622.swift; sourceTree = "<group>"; };
+		79F1502E2938B07300D7D686 /* 2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2941.swift; sourceTree = "<group>"; };
 		79F2794728ED697900A9EC18 /* 10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10871.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -240,6 +240,7 @@
 				79F150272938A0A500D7D686 /* 1152.swift */,
 				79F1502A2938A39800D7D686 /* 2908.swift */,
 				79F1502C2938A62300D7D686 /* 5622.swift */,
+				79F1502E2938B07300D7D686 /* 2941.swift */,
 			);
 			name = "문자열";
 			path = "문자열";
@@ -304,7 +305,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				79F1502D2938A62300D7D686 /* 5622.swift in Sources */,
 				79F150292938A1A200D7D686 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
