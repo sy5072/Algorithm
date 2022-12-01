@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  5622.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/12/01.
 //
 
 func toTakeNumber(char: Character) -> Int {
