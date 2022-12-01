@@ -75,6 +75,7 @@
 		79EFD88A292D16C500C79A76 /* 11654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11654.swift; sourceTree = "<group>"; };
 		79EFD88C292D199A00C79A76 /* 11720.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11720.swift; sourceTree = "<group>"; };
 		79EFD88E292D1C5200C79A76 /* 10809.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10809.swift; sourceTree = "<group>"; };
+		79F150232938994000D7D686 /* 2675.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2675.swift; sourceTree = "<group>"; };
 		79F2794728ED697900A9EC18 /* 10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10871.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -229,6 +230,7 @@
 				79EFD88A292D16C500C79A76 /* 11654.swift */,
 				79EFD88C292D199A00C79A76 /* 11720.swift */,
 				79EFD88E292D1C5200C79A76 /* 10809.swift */,
+				79F150232938994000D7D686 /* 2675.swift */,
 			);
 			name = "문자열";
 			path = "문자열";
