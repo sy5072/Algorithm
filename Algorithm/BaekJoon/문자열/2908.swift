@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  2908.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2022/12/01.
 //
 
 //let numbers = readLine()!.split(separator: " ")
@@ -18,4 +18,3 @@
 
 let numbers = readLine()!.split(separator: " ").map{ Int(String($0.reversed()))! }
 print(numbers.max()!)
-
