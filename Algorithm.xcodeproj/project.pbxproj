@@ -23,6 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		79125FFD29544BFD0009D89A /* naver1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver1.swift; sourceTree = "<group>"; };
+		79125FFF2954543E0009D89A /* naver2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver2.swift; sourceTree = "<group>"; };
+		7912600129545F170009D89A /* naver3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver3.swift; sourceTree = "<group>"; };
 		7912BB0128E5C43100121536 /* 1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1000.swift; sourceTree = "<group>"; };
 		7912BB0428E5CAE100121536 /* 1001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1001.swift; sourceTree = "<group>"; };
 		7912BB0628E5CB0F00121536 /* 10998.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10998.swift; sourceTree = "<group>"; };
@@ -95,6 +98,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7909ACEA2967BC8300FEACD7 /* Naver ETECH */ = {
+			isa = PBXGroup;
+			children = (
+				79125FFD29544BFD0009D89A /* naver1.swift */,
+				79125FFF2954543E0009D89A /* naver2.swift */,
+				7912600129545F170009D89A /* naver3.swift */,
+			);
+			path = "Naver ETECH";
+			sourceTree = "<group>";
+		};
 		7912BB2628E9473E00121536 /* 조건문 */ = {
 			isa = PBXGroup;
 			children = (
@@ -150,6 +163,7 @@
 		7934EFA1286B48EE00D81598 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				7909ACEA2967BC8300FEACD7 /* Naver ETECH */,
 				7934EFA9286B4A8600D81598 /* BaekJoon */,
 			);
 			path = Algorithm;
