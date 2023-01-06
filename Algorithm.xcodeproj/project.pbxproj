@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7909ACEB2967C3AB00FEACD7 /* 1316.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1316.swift; sourceTree = "<group>"; };
 		79125FFD29544BFD0009D89A /* naver1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver1.swift; sourceTree = "<group>"; };
 		79125FFF2954543E0009D89A /* naver2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver2.swift; sourceTree = "<group>"; };
 		7912600129545F170009D89A /* naver3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver3.swift; sourceTree = "<group>"; };
@@ -255,6 +256,7 @@
 				79F1502A2938A39800D7D686 /* 2908.swift */,
 				79F1502C2938A62300D7D686 /* 5622.swift */,
 				79F1502E2938B07300D7D686 /* 2941.swift */,
+				7909ACEB2967C3AB00FEACD7 /* 1316.swift */,
 			);
 			name = "문자열";
 			path = "문자열";
