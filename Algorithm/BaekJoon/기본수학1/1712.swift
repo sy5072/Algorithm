@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  1712.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2023/01/09.
 //
 
 var inputs = readLine()!.split(separator: " ").map{Int($0)!}
