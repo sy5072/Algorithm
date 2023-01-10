@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  10250.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2023/01/10.
 //
 
 var testCount = Int(readLine()!)!
