@@ -1,9 +1,10 @@
 //
-//  main.swift
+//  2775.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 2023/01/24.
 //
+
 //1 5 15 35 70 126
 //1 4 10 20 35 56  84  120  165  220
 //1 3 6  10 15 21  28  36   45   55

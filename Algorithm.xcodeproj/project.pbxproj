@@ -52,6 +52,7 @@
 		7912BB3028EB0FB800121536 /* 8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8393.swift; sourceTree = "<group>"; };
 		7912BB3228EB130600121536 /* 25304.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 25304.swift; sourceTree = "<group>"; };
 		79152E682911120E000BF18F /* 4344.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4344.swift; sourceTree = "<group>"; };
+		791BC681297F79C700E611E3 /* 2775.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2775.swift; sourceTree = "<group>"; };
 		7934EF9F286B48EE00D81598 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		7934EFA2286B48EE00D81598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		793D4C3128EC8BB8000DA170 /* 11021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11021.swift; sourceTree = "<group>"; };
@@ -199,6 +200,7 @@
 				795D48CB296C4B56000D1DF6 /* 1193.swift */,
 				79DABD2C296D025300F911F9 /* 2869.swift */,
 				79DABD2E296D080200F911F9 /* 10250.swift */,
+				791BC681297F79C700E611E3 /* 2775.swift */,
 			);
 			name = "기본수학1";
 			path = "기본수학1";
