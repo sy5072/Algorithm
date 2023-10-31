@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  1931.swift
 //  Algorithm
 //
-//  Created by Seungyun Kim on 2022/06/28.
+//  Created by Seungyun Kim on 10/31/23.
 //
 
 import Foundation
